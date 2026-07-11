@@ -8,7 +8,7 @@ This repository documents the analytical framework, methodologies, and findings 
 -------------------------------------------------------------------------------------------------------------------------------------------
 ### Objectives
 
-- ## Subscription Growth Analysis: Identify key drivers influencing acquisition, retention, and churn.
+- ## Subscription Growth Analysis ##: Identify key drivers influencing acquisition, retention, and churn.
 
 - ## Customer Segmentation: Classify subscribers and prospects into meaningful segments based on demographics and viewing behavior.
 
