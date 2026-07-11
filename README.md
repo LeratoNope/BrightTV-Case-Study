@@ -37,3 +37,12 @@ The analysis leverages two primary datasets:
 4. Predictive Analytics – Forecasting subscription behavior and potential growth levers.
 
 5. Insight Generation – Translating findings into strategic recommendations.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+## Deliverables
+
+- Analytical Report – Comprehensive documentation of findings and implications.
+
+- Visualization Dashboards – Interactive tools to support CVM decision-making.
+
+- Strategic Action Plan – Recommendations aligned with BrightTV’s subscription growth objectives.
