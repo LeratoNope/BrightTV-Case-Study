@@ -15,3 +15,12 @@ This repository documents the analytical framework, methodologies, and findings 
 - Behavioral Insights: Assess consumption patterns to align content offerings with audience preferences.
 
 - Strategic Recommendations: Provide evidence-based proposals to strengthen CVM initiatives.
+
+  --------------------------------------------------------------------------------------------------------------------------------------
+## Dataset Overview
+
+The analysis leverages two primary datasets:
+
+- User Profiles: Demographic attributes, subscription status, and account-level information.
+
+- Viewer Transactions: Detailed records of content consumption, frequency, and engagement metrics.
