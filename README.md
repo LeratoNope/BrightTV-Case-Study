@@ -24,3 +24,16 @@ The analysis leverages two primary datasets:
 - User Profiles: Demographic attributes, subscription status, and account-level information.
 
 - Viewer Transactions: Detailed records of content consumption, frequency, and engagement metrics.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+## Methodology
+
+1. Data Preparation – Standardization, cleansing, and validation of datasets.
+
+2. Exploratory Data Analysis – Identification of trends, anomalies, and correlations.
+
+3. Segmentation Modeling – Grouping customers into actionable clusters.
+
+4. Predictive Analytics – Forecasting subscription behavior and potential growth levers.
+
+5. Insight Generation – Translating findings into strategic recommendations.
