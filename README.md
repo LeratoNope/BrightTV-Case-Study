@@ -5,7 +5,7 @@ BrightTV’s Chief Executive Officer has articulated a strategic priority for th
 
 This repository documents the analytical framework, methodologies, and findings designed to inform decision-making and guide initiatives that will contribute to subscription growth.
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 ### Objectives
 
 Subscription Growth Analysis: Identify key drivers influencing acquisition, retention, and churn.
