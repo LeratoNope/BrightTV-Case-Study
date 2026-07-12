@@ -1,4 +1,7 @@
 # BrightTV-Case-Study
+<p align="center">
+  <img src="https://your-image-hosting-link.com/brighttv-banner.png" alt="BrightTV Project Banner" width="100%">
+</p>
 ## Executive Summary
 
 BrightTV’s Chief Executive Officer has articulated a strategic priority for the current financial year: to expand the company’s subscription base. In support of this objective, the Customer Value Management (CVM) team has engaged in a data-driven exercise to derive actionable insights from the available datasets.
