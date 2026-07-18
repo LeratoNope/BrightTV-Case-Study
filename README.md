@@ -55,7 +55,3 @@ Churn Prediction Models
 Personalized Content Strategies
 
 Experimental Design and A/B Testing
-
-
-
-Would you like me to also prepare a short executive summary slide outline (bullet points for a presentation deck) that you could use alongside this README?
