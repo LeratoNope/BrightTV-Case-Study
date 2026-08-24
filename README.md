@@ -95,20 +95,5 @@ The analysis leverages two primary datasets:
 
 ---
 
-## 🗺️ Roadmap
-```mermaid
-graph TD
-    A[Project Description & Raw Data] --> B[Project Planning - Miro & Canva]
-    B --> C[Data Processing - Cleaning & Combined Big Code]
-    C --> D[Presentations - Dashboards & PowerPoint]
-
-
----
-
-✨ This README now has your **roadmap in the exact order you specified**:  
-1. Project Description & Raw Data  
-2. Project Planning (Miro + Canva)  
-3. Data Processing (cleaning + combined big code)  
-4. Presentations (dashboards + PowerPoint)  
 
 
