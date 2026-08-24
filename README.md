@@ -1,12 +1,12 @@
 # 📺 BrightTV Data Analytics Initiative
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Google Data Studio](https://img.shields.io/badge/Data%20Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)
-![Loveable](https://img.shields.io/badge/Loveable-FF69B4?style=for-the-badge&logo=heart&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Google Data Studio](https://img.shields.io/badge/Data%20Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Loveable](https://img.shields.io/badge/Loveable-FF69B4?style=for-the-badge&logo=heart&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
@@ -36,10 +36,9 @@ The analysis leverages two primary datasets:
 ---
 
 ## 🛠️ Tools & Technologies
-- **Mapping & Architecture**: Miro (data flow diagrams)  
-- **Project Planning**: Canva (Gantt charting)  
+- **Project Planning**: Canva (Gantt charting), Miro (data flow diagrams)  
 - **Data Processing**: Databricks, SQL  
-- **Data Visualization**: Excel, Google Data Studio, Loveable, Power BI  
+- **Data Visualization**: Google Data Studio, Excel, Loveable, Power BI  
 - **Presentation**: Microsoft PowerPoint  
 
 ---
@@ -69,27 +68,47 @@ The analysis leverages two primary datasets:
 ---
 
 ## 🗂️ Repository Structure
-├── 📁 planning
+├── 📁 project_description_and_raw_data
+│   ├── BrightTV_CaseStudy.pdf
+│   └── raw_datasets/
+│       ├── user_profiles.csv
+│       └── viewer_transactions.csv
+│
+├── 📁 project_planning
 │   ├── BrightTV_DataFlow_Miro.png
 │   └── BrightTV_GanttChart_Canva.png
+│
 ├── 📁 data_processing
-│   └── subscription_analysis.sql
-├── 📁 dashboards
-│   ├── excel_dashboard.xlsx
-│   ├── powerbi_dashboard.pbix
-│   ├── datastudio_dashboard.png
-│   └── loveable_dashboard.png
-├── 📁 presentation
+│   ├── cleaning_code_user_profiles.sql
+│   ├── cleaning_code_viewership.sql
+│   └── combined_big_code.sql
+│
+├── 📁 presentations
+│   ├── dashboards/
+│   │   ├── excel_dashboard.xlsx
+│   │   ├── powerbi_dashboard.pbix
+│   │   ├── datastudio_dashboard.png
+│   │   └── loveable_dashboard.png
 │   └── BrightTV_Presentation.pptx
+│
 └── README.md
 
 ---
 
-## 🗺️ Workflow Timeline
+## 🗺️ Roadmap
 ```mermaid
 graph TD
-    A[Mapping & Architecture - Miro] --> B[Project Planning - Canva Gantt Chart]
-    B --> C[Data Cleaning & Preparation - Databricks/SQL]
-    C --> D[Dashboard Development - Excel, Data Studio, Loveable, Power BI]
-    D --> E[Presentation & Strategic Recommendations - PowerPoint]
+    A[Project Description & Raw Data] --> B[Project Planning - Miro & Canva]
+    B --> C[Data Processing - Cleaning & Combined Big Code]
+    C --> D[Presentations - Dashboards & PowerPoint]
+
+
+---
+
+✨ This README now has your **roadmap in the exact order you specified**:  
+1. Project Description & Raw Data  
+2. Project Planning (Miro + Canva)  
+3. Data Processing (cleaning + combined big code)  
+4. Presentations (dashboards + PowerPoint)  
+
 
