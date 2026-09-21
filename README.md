@@ -1,15 +1,5 @@
 # 📺 BrightTV Viewership Analytics
 
-![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge)
-![Miro](https://img.shields.io/badge/MIRO-050038?style=for-the-badge)
-![Databricks](https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge)
-![Data Studio](https://img.shields.io/badge/DATA%20STUDIO-4285F4?style=for-the-badge)
-![Lovable](https://img.shields.io/badge/LOVABLE-FF69B4?style=for-the-badge)
-![PowerPoint](https://img.shields.io/badge/POWERPOINT-B7472A?style=for-the-badge)
-
 ---
 
 ## 📌 Project Overview
